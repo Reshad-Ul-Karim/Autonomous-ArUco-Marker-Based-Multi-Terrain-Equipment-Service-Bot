@@ -1,0 +1,25 @@
+image_width: 1920
+image_height: 1080
+camera_matrix:
+- - 972.913694
+  - 0.0
+  - 762.558761
+- - 0.0
+  - 1016.21080
+  - 695.904054
+- - 0.0
+  - 0.0
+  - 1.0
+distortion_coefficients:
+- - 0.03032299
+  - -0.05397127
+  - -0.02925636
+  - 0.0309877
+  - 0.19891618
+calibration_date: '2026-01-02 00:00:00'
+num_images: 20
+chessboard_size:
+- 9
+- 6
+square_size: 25.0
+reprojection_error: 0.1053
